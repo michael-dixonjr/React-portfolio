@@ -21,12 +21,12 @@ const Portfolio = ()=>(
         <div className="card-image">
           <img src={portfolioscreenshot} alt="" height="100%" />
         </div>
-        <a href="https://romeodixonll.github.io/CodeRefactor/" target={"_blank"}>
+        <a href="https://michael-dixonjr.github.io/react-portfolio" target={"_blank"}>
         <div className="card-text">
           <div className="card-text-wrap">
             <p className="card-text-category">Responsinve Web Design</p>
             <h2 className="card-text-title">React.JS Portfolio</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/michael-dixonjr/react-portfolio" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>

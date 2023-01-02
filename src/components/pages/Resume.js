@@ -19,7 +19,7 @@ const Resume = ()=>(
   
 <section id="contact-b" className="center-page py-2">
       <div className="container">
-        <a href="https://drive.google.com/file/d/1OH3fWy6OHOSaQYUGqjtwZvRzBX_6_Or4/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1j5tQB_76Ic4sT-e1cgbWOkzU2qq5s63M/view?usp=share_link" target="_blank">
           <i class="fas fa-solid fa-file fa-10x"></i>
           <h3>My Resume</h3>
           <p>Click to download</p>
