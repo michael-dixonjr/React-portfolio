@@ -101,7 +101,10 @@
     background: #ffbc00;
     display: block;
     margin: 0 auto 1rem auto; }
-    
+  
+  #work {
+    padding-bottom: 10rem; }  
+
   #work .container
   .cards {
     display: grid;

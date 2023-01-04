@@ -164,6 +164,9 @@
   
     #contact-b .contact-me{
       grid-template-columns: 1fr; }
+
+    #contact-container {
+      padding-bottom: 10rem; }
  
   }
   

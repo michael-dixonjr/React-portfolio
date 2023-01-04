@@ -1,12 +1,12 @@
 import React from "react";
 import "../styles/NavTabs.css";
 
-const styles = {
+/*const styles = {
   namePlate: {
     "font-size": "50px",
     "font-family": "Arial, Helvetica, sans-serif",
   },
-};
+}; */
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
@@ -14,7 +14,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       <div className="container">
         {/* style={{"font-size": "50px"}} style={{"font-family": "Arial, Helvetica, sans-serif"}} */}
         <nav id="main-nav">
-          <h1 style={styles.namePlate}>Michael Dixon Jr.</h1>
+          <h1>Michael Dixon Jr.</h1>
           <ul>
             <li>
               <a
