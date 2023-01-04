@@ -2,7 +2,7 @@ import React from "react";
 import "../../styles/Contact.css";
 
 const Resume = ()=>(
-<div>
+<div id="resume-container">
 <section id="about-b" className="bg-dark py-3" style={{"marginTop":"100px"}}>
     <div className="container" style={{"text-align": "center"}}>
         <h2 className="section-title">Technical Skills</h2>
