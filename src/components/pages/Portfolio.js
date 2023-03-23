@@ -4,6 +4,7 @@ import lemonscreenshot from "../../img/lemonscreenshot.png"
 import yggiscreenshot from "../../img/yggiscreenshot.png"
 import portfolioscreenshot from "../../img/portfolioscreenshot.png"
 import Portfolio2Screenshot from "../../img/Portfolio2Screenshot.png"
+import lemonscreenshot2 from "../../img/lemonscreenshot2.png"
 
 
 
@@ -46,14 +47,14 @@ const Portfolio = ()=>(
       </div>
       <div className="card">
         <div className="card-image">
-          <img src={lemonscreenshot} alt="" height="100%" />
+          <img src={lemonscreenshot2} alt="" height="100%" />
         </div>
-        <a href="https://michael-dixonjr.github.io/LittleLemonLanding/index.html"target={"_blank"}>
+        <a href="https://michael-dixonjr.github.io/restaurant-app/"target={"_blank"}>
         <div className="card-text">
           <div className="card-text-wrap">
-            <p className="card-text-category">HTML & CSS</p>
-            <h2 className="card-text-title">Little Lemon Landing Page</h2>
-            <a href="https://github.com/michael-dixonjr/LittleLemonLanding" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <p className="card-text-category">React.js</p>
+            <h2 className="card-text-title">Little Lemon Restaurant Page</h2>
+            <a href="https://github.com/michael-dixonjr/restaurant-app" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
